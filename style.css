@@ -1,0 +1,56 @@
+body{
+	background: url(background4.jpg) no-repeat;
+	background-size: 100%;
+}
+h1{
+	text-align: center;
+	margin-top:10%;
+}
+.main{
+	background: rgba(0,0,0,0.4);
+	text-align: center;
+	width:30%;
+	height:40%;
+	position:absolute;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+	margin:auto auto;
+	border-radius:0.3em;
+
+}
+
+.birthday{
+	width:50%;
+	height:10%;
+	margin: auto;
+	position:absolute;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+}
+
+.submit{
+	width:15%;
+	height:10%;
+	margin:25% auto;
+	border-radius:0.3em;
+	
+}
+.submit:hover{
+	border-color:blue;
+	background: none;
+}
+.reset{
+	width:15%;
+	height:10%;
+	margin:25% auto;
+	border-radius:0.3em;
+	
+}
+.reset:hover{
+	border-color:white;
+	background: none;
+}
